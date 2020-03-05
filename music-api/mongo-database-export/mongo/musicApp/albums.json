@@ -1,0 +1,10 @@
+[
+{ "_id" : { "$oid" : "5e5e291f10971053e843cadd" }, "name" : "Recovery", "year" : "2010", "artist" : { "$oid" : "5e5e27e710971053e843cada" }, "image" : "5zYkn_MmcW9YBbXQkO86k.jpeg" },
+{ "_id" : { "$oid" : "5e5e296410971053e843cade" }, "name" : "infinite", "year" : "1996", "artist" : { "$oid" : "5e5e27e710971053e843cada" }, "image" : "0CE2fkppE9ki1Qa4P3xZi.jpeg" },
+{ "_id" : { "$oid" : "5e5e29b010971053e843cadf" }, "name" : "McMxc A.D.", "year" : "1990", "artist" : { "$oid" : "5e5e27b710971053e843cad9" }, "image" : "0WGtFMf685up_b_svkzEi.jpeg" },
+{ "_id" : { "$oid" : "5e5e29e510971053e843cae0" }, "name" : "Le Roi Est Mort, Vive Le Roi!", "year" : "1996", "artist" : { "$oid" : "5e5e27b710971053e843cad9" }, "image" : "RlzkBU9-5dmgq0hYyzf6j.jpeg" },
+{ "_id" : { "$oid" : "5e60b343d1fdcf6347941521" }, "name" : "Slippery When Wet", "year" : "1986", "artist" : { "$oid" : "5e60b250d1fdcf6347941520" }, "image" : "WGgFIxo7HB_ayIElXL5Pp.jpeg" },
+{ "_id" : { "$oid" : "5e60b3c2d1fdcf6347941522" }, "name" : "7800º Fahrenheit", "year" : "1985", "artist" : { "$oid" : "5e60b250d1fdcf6347941520" }, "image" : "RyQPr85t4aSXePNLB8bYz.jpeg" },
+{ "_id" : { "$oid" : "5e60b7b0d1fdcf634794152c" }, "name" : "Ænima", "year" : "1996", "artist" : { "$oid" : "5e60b72cd1fdcf634794152b" }, "image" : "C7g0LEWi5AxVXFk8CYe7n.jpeg" },
+{ "_id" : { "$oid" : "5e60b7dcd1fdcf634794152d" }, "name" : "10,000 Days", "year" : "2006", "artist" : { "$oid" : "5e60b72cd1fdcf634794152b" }, "image" : "x8wlIm2UD9F7xz7U2co1h.jpeg" }
+]

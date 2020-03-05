@@ -1,0 +1,23 @@
+[
+{ "_id" : { "$oid" : "5e5e3798cdf8f96eb86b4db3" }, "name" : "Cold Wind Blows", "album" : { "$oid" : "5e5e291f10971053e843cadd" }, "duration" : "5:03" },
+{ "_id" : { "$oid" : "5e5e37cecdf8f96eb86b4db4" }, "name" : "On Fire", "album" : { "$oid" : "5e5e291f10971053e843cadd" }, "duration" : "3:33" },
+{ "_id" : { "$oid" : "5e5e3805cdf8f96eb86b4db5" }, "name" : "Infinite", "album" : { "$oid" : "5e5e296410971053e843cade" }, "duration" : "4:11" },
+{ "_id" : { "$oid" : "5e5e3844cdf8f96eb86b4db6" }, "name" : "Morphing Thru Time", "album" : { "$oid" : "5e5e29e510971053e843cae0" }, "duration" : "5:47" },
+{ "_id" : { "$oid" : "5e5e3871cdf8f96eb86b4db7" }, "name" : "Beyond The Invisible", "album" : { "$oid" : "5e5e29e510971053e843cae0" }, "duration" : "5:00" },
+{ "_id" : { "$oid" : "5e5e38ddcdf8f96eb86b4db8" }, "name" : "Principles Of Lust: Sadeness/Find Love/Sadeness", "album" : { "$oid" : "5e5e29b010971053e843cadf" }, "duration" : "11:43" },
+{ "_id" : { "$oid" : "5e5e38fecdf8f96eb86b4db9" }, "name" : "Mea Culpa", "album" : { "$oid" : "5e5e29b010971053e843cadf" }, "duration" : "5:03" },
+{ "_id" : { "$oid" : "5e5e392bcdf8f96eb86b4dba" }, "name" : "Back To The Rivers Of Belief: Way To Eternity/Hallelujah/The Rivers Of Belief", "album" : { "$oid" : "5e5e29b010971053e843cadf" }, "duration" : "10:36" },
+{ "_id" : { "$oid" : "5e5e39a5cdf8f96eb86b4dbb" }, "name" : "The Voice Of Enigma", "album" : { "$oid" : "5e5e29b010971053e843cadf" }, "duration" : "2:21" },
+{ "_id" : { "$oid" : "5e60b536d1fdcf6347941524" }, "name" : "You Give Love A Bad Name", "album" : { "$oid" : "5e60b343d1fdcf6347941521" }, "duration" : "3:43" },
+{ "_id" : { "$oid" : "5e60b548d1fdcf6347941525" }, "name" : "Livin' On A Prayer", "album" : { "$oid" : "5e60b343d1fdcf6347941521" }, "duration" : "4:10" },
+{ "_id" : { "$oid" : "5e60b55ad1fdcf6347941526" }, "name" : "Wanted Dead Or Alive", "album" : { "$oid" : "5e60b343d1fdcf6347941521" }, "duration" : "5:08" },
+{ "_id" : { "$oid" : "5e60b577d1fdcf6347941527" }, "name" : "Never Say Goodbye", "album" : { "$oid" : "5e60b343d1fdcf6347941521" }, "duration" : "4:49" },
+{ "_id" : { "$oid" : "5e60b5bed1fdcf6347941528" }, "name" : "In And Out Of Love", "album" : { "$oid" : "5e60b3c2d1fdcf6347941522" }, "duration" : "4:26" },
+{ "_id" : { "$oid" : "5e60b5dfd1fdcf6347941529" }, "name" : "The Price Of Love", "album" : { "$oid" : "5e60b3c2d1fdcf6347941522" }, "duration" : "4:13" },
+{ "_id" : { "$oid" : "5e60b5f6d1fdcf634794152a" }, "name" : "Only Lonely", "album" : { "$oid" : "5e60b3c2d1fdcf6347941522" }, "duration" : "5:00" },
+{ "_id" : { "$oid" : "5e60b84fd1fdcf634794152e" }, "name" : "Forty Six & 2", "album" : { "$oid" : "5e60b7b0d1fdcf634794152c" }, "duration" : "6:03" },
+{ "_id" : { "$oid" : "5e60b885d1fdcf634794152f" }, "name" : "Hooker With A Penis", "album" : { "$oid" : "5e60b7b0d1fdcf634794152c" }, "duration" : "4:33" },
+{ "_id" : { "$oid" : "5e60b8b2d1fdcf6347941530" }, "name" : "Vicarious", "album" : { "$oid" : "5e60b7dcd1fdcf634794152d" }, "duration" : "7:06" },
+{ "_id" : { "$oid" : "5e60b8ced1fdcf6347941531" }, "name" : "The Pot", "album" : { "$oid" : "5e60b7dcd1fdcf634794152d" }, "duration" : "6:21" },
+{ "_id" : { "$oid" : "5e60b8ead1fdcf6347941532" }, "name" : "Viginti Tres", "album" : { "$oid" : "5e60b7dcd1fdcf634794152d" }, "duration" : "5:02" }
+]
